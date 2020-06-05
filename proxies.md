@@ -1,8 +1,4 @@
----
-description: 代理
----
-
-# Proxies
+# Proxies 代理
 
 ![](.gitbook/assets/image%20%288%29.png)
 
