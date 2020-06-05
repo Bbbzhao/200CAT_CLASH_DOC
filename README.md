@@ -43,3 +43,18 @@ Clash是一个Go语言开发的**开源**多平台代理客户端，[Github](htt
 
 ![](https://docs.cfw.lbyczf.com/assets/quickstart2.png)
 
+## 打开系统代理与开机自启动
+
+返回General中，打开`System Proxy`及`Starts with Windows`两个开关即可
+
+* System Proxy：设置系统代理
+* Start with Windows：开机自启动
+
+![](https://docs.cfw.lbyczf.com/assets/quickstart4.png)
+
+## 完成
+
+现在，基本配置已经完成了
+
+如果对软件进阶部分感兴趣，可以阅读之后的内容
+
