@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Clash](README.md)
+* [快速上手](kuai-su-shang-shou.md)
 * [contents](contents/README.md)
   * [配置文件](contents/pei-zhi-wen-jian.md)
-  * [快速上手](contents/kuai-su-shang-shou.md)
   * [界面介绍](contents/jie-mian-jie-shao.md)
   * [ui](contents/ui/README.md)
     * [常规 General](contents/ui/chang-gui-general.md)
