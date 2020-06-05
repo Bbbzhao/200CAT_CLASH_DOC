@@ -34,12 +34,12 @@ Clash是一个Go语言开发的**开源**多平台代理客户端，[Github](htt
 
 ### 复制链接
 
-1. 登入[200.cat](https://200.cat/)，点击“账号”，选择“订阅链接”
+1. 登入平台，点击“账号”，选择“订阅链接”
 2. 选择“Clash”，点击“复制链接”
 
 ![](.gitbook/assets/image%20%284%29.png)
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 ### 导入配置
 
