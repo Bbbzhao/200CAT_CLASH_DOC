@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Clash](README.md)
-* [快速上手](kuai-su-shang-shou.md)
 * [contents](contents/README.md)
   * [配置文件](contents/pei-zhi-wen-jian.md)
   * [界面介绍](contents/jie-mian-jie-shao.md)

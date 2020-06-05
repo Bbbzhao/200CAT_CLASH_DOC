@@ -1,3 +1,7 @@
+---
+description: '此文档fork from https://docs.cfw.lbyczf.com/'
+---
+
 # Clash
 
 ## 什么是Clash
