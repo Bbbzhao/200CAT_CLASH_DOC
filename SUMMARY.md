@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Clash](README.md)
+* [Proxies](dai-li-proxies.md)
 * [contents](contents/README.md)
   * [配置文件](contents/pei-zhi-wen-jian.md)
   * [界面介绍](contents/jie-mian-jie-shao.md)
   * [ui](contents/ui/README.md)
     * [常规 General](contents/ui/chang-gui-general.md)
-    * [代理 Proxies](contents/ui/dai-li-proxies.md)
     * [配置 Profiles](contents/ui/pei-zhi-profiles.md)
     * [profiles](contents/ui/profiles/README.md)
       * [策略](contents/ui/profiles/ce-lve.md)
