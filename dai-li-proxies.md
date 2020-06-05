@@ -4,6 +4,8 @@ description: 代理
 
 # Proxies
 
+![](.gitbook/assets/image%20%288%29.png)
+
 代理页面主要的作用就是**切换代理模式**和**切换节点**
 
 ## 切换代理模式 <a id="&#x5207;&#x6362;&#x4EE3;&#x7406;&#x6A21;&#x5F0F;"></a>
