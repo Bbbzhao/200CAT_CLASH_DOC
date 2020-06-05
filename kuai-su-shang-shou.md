@@ -1,10 +1,10 @@
 # 快速上手
 
-适用大部分服务商提供Clash配置的用户
-
 ## 启动 <a id="&#x542F;&#x52A8;"></a>
 
 首次启动Clash for Windows后会出现下图所示界面代表启动成功：
+
+![](.gitbook/assets/image%20%281%29.png)
 
 ## 导入配置文件 <a id="&#x5BFC;&#x5165;&#x914D;&#x7F6E;&#x6587;&#x4EF6;"></a>
 
