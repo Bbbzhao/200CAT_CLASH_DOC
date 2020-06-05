@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Clash for Windows](README.md)
+* [Clash](README.md)
 * [contents](contents/README.md)
   * [配置文件](contents/pei-zhi-wen-jian.md)
   * [快速上手](contents/kuai-su-shang-shou.md)
