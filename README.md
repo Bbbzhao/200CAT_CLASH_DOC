@@ -6,8 +6,8 @@ Clash是一个Go语言开发的**开源**多平台代理客户端，[Github](htt
 
 ## 下载地址： <a id="&#x540D;&#x8BCD;"></a>
 
-* ClashX：Clash的Mac图形客户端，[Github](https://github.com/yichengchen/clashX)
-* ClashForAndroid：Clash的Android图形客户端，[Github](https://github.com/Kr328/ClashForAndroid)
+* ClashX：Clash的Mac图形客户端，[Github](https://github.com/yichengchen/clashX/releases)
+* ClashForAndroid：Clash的Android图形客户端，[Github](https://github.com/Kr328/ClashForAndroid/releases)
 * Clash for Windows：Clash的Windows图形客户端，[Github](https://github.com/Fndroid/clash_for_windows_pkg)
 
 ## 如何下载
