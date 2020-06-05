@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Clash](README.md)
-* [Proxies](dai-li-proxies.md)
+* [Proxies](proxies.md)
 * [contents](contents/README.md)
   * [配置文件](contents/pei-zhi-wen-jian.md)
   * [界面介绍](contents/jie-mian-jie-shao.md)
