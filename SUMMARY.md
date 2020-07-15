@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Clash](README.md)
+* [Clash for Windows](clash-for-windows.md)
+* [ClashX for OSX](clashx-for-osx.md)
 * [Proxies 代理](proxies.md)
 * [contents](contents/README.md)
   * [配置文件](contents/pei-zhi-wen-jian.md)
