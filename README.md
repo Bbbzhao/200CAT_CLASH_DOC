@@ -21,6 +21,8 @@ Clash是一个Go语言开发的**开源**多平台代理客户端，[Github](htt
 
 打开此链接[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)，选择版本进行下载：
 
+![](.gitbook/assets/image%20%2815%29.png)
+
 ![](.gitbook/assets/image.png)
 
 ## 
