@@ -34,6 +34,12 @@
 
 ![](https://docs.cfw.lbyczf.com/assets/quickstart4.png)
 
+## 切换线路
+
+返回Proxies，点击`国外流量`菜单，可以切换到不同的线路（当网络不稳定时，可切换到另外的线路）
+
+![](.gitbook/assets/image%20%2817%29.png)
+
 ## 完成
 
 现在，基本配置已经完成了
