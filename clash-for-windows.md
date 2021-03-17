@@ -23,7 +23,7 @@
 
 **回到Clash**，点击界面左侧菜单Profiles，在顶部输入框填入URL并点击Download即可，下载完成后点击对应的配置文件即可载入
 
-![](https://docs.cfw.lbyczf.com/assets/quickstart2.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 ## 打开系统代理与开机自启动
 
@@ -32,7 +32,7 @@
 * System Proxy：设置系统代理
 * Start with Windows：开机自启动
 
-![](https://docs.cfw.lbyczf.com/assets/quickstart4.png)
+![](.gitbook/assets/image%20%2819%29.png)
 
 ## 切换线路
 
